@@ -5,6 +5,7 @@
   "description": "Videos und Audio mit MeTube herunterladen. YouTube-Transcript kopieren.",
   "permissions": [
     "activeTab",
+    "scripting",
     "contextMenus",
     "storage",
     "clipboardWrite",
